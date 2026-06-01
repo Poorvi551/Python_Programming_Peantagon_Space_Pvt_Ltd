@@ -1,8 +1,19 @@
 Day 2 - Strings programs
 
 
-1. WAP to reverse string using two pointer
-2. WAP to check Palindrome
-3. WAP to count occurrence of elements in the given string.
-4. WAP to count occurrence of substring in the given string
-4. WAP to 
+1. WAP to reverse string using two pointer.
+2. WAP to check Palindrome using two pointer.
+3. WAP to print the count of vowels and consonants from given strings.
+4. WAP to count occurrence of elements in the given string.
+5. WAP to count occurrence of substring in the given string
+6. WAP to remove the spaces from the given string
+7. WAP to find the duplicate characters from the string
+8. WAP to find the largest word from the given string
+9. WAP to check whether the given strings are anagram or not.
+10. WAP to check whether the given strings are panagram or not.
+11. WAP to print first non-repeating character in a string. 
+
+
+Assignment Questions
+
+1.
